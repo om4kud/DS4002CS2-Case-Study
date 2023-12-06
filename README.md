@@ -3,7 +3,7 @@ Handwriting Detection Analysis
 
 ## Table of Contents
 
-[Hook](#Hook Document) - This is the Hook Document. Read this file first!
+[Hook Document](#HookDocument) - This is the Hook Document. Read this file first!
 
 [Rubric](#Rubric) - This is the rubric. Read this in order to best understand what is expected of you.
 
