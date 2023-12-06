@@ -3,11 +3,16 @@ Handwriting Detection Analysis
 
 ## Table of Contents
 
+[Hook](#Hook Document) - This is the Hook Document. Read this file first!
+
+[Rubric](#Rubric) - This is the rubric. Read this in order to best understand what is expected of you.
+
 [SRC](#SRC)  - This section contains all the source code for our project, which includes the code for our EDA graphs and scripts for the [pretrained model](https://github.com/githubharald/SimpleHTR). The main files are main.py and model.py in the folder. The main.py file helps to run the model on an image to output what the handwritten text states and the model.py file contains the code for the model building.
 
 [DATA](#Data)  - This section contains sections of the IAM dataset which the model is trained on. The dataset consists of images of handwritten words. The entire dataset can be accessed from https://fki.tic.heia-fr.ch/databases/iam-handwriting-database.
 
-[References](#References)  - This section contains all references that were used throughout the project, as well as links to the MI1 and MI2 Assignments.
+[References](#References)  - This section contains all references that should be used throughout the case study. It contains all the necessary materials, including relevant blog posts and articles that will aid your understanding. 
+
 
 ## SRC
 
