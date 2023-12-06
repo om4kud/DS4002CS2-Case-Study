@@ -1,6 +1,5 @@
 # DS4002CS2-Case-Study
 Handwriting Detection Analysis
-# DS 4002 Project 2
 
 ## Table of Contents
 
