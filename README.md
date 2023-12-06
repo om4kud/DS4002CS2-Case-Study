@@ -1,4 +1,4 @@
-# DS4002CS2-Case-Study
+# DS4002 CS2-Case-Study
 Handwriting Detection Analysis
 
 ## Table of Contents
